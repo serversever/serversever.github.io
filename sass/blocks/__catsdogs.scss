@@ -1,0 +1,15 @@
+.catsdogs {
+    min-height: 650px;
+    padding: 21px 0 93px 0;
+    background: url(../img/bg3.jpg) center (center/cover) no-repeat;
+    &__wrapper {
+        display: flex;
+        align-items: flex-end;
+        text-transform: uppercase;
+        font-weight: 700;
+        color: #FFFFFF;
+        font-size: 72px;
+        margin-top: 17px;
+        
+    }
+}
